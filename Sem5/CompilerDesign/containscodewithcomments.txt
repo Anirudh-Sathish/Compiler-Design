@@ -1,0 +1,12 @@
+#include<stdio.h>
+//This is supposed to say hello world 
+/* Trying out the world of comments */
+/* Trying out the *world of comments **/
+/* Trying out the *world of comments ***/
+int main()
+{
+    printf("Hello World"); 
+    /* Trying out th
+     Glassgow city go 
+     to lights */
+ }

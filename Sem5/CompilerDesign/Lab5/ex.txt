@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    int a , c ;
+    float b ;
+    a = 3 ;
+    b = 10.0 ;
+}
